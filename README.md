@@ -1,4 +1,4 @@
-### Hello World, I'm Samir Mishra:
+### Hello World, I'm Botirjon Mahamadaliyev:
 
 <h1 align="center">
   <a target="_blank">

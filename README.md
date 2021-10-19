@@ -17,8 +17,8 @@
 </a>
 
 - 🔭 I’m currently working on **Full Stack Flutter**
-- 🌱 I’m currently learning **Golang and Competitive Programming**
-- 👯 I’m looking to collaborate on **Web Development**
+- 🌱 I’m currently learning **Full Stack Flutter**
+- 👯 I’m looking to collaborate on **Flutter**
 - 🤔 I’m looking for with **Internships**
 - 💬 Ask me about Anything [here](https://github.com/MBotirjonDev)! I am happy to help.
 - 😄 Pronouns : **He/Him/His**
@@ -125,6 +125,6 @@ The *isocalendar* plugin displays an isometric view of your commits calendar, al
 
 
 ------
-Credits: [smir45](https://github.com/smir45)
+Credits: [MBotirjonDev](https://github.com/MBotirjonDev)
 
 Last edited on: 18/08/2021

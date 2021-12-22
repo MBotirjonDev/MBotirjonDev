@@ -55,6 +55,7 @@
 <code><img height="40" width="40" src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"></code>
 <code><img height="40" width="40" src="https://image.pngaaa.com/400/23400-middle.png"></code>
 <code><img height="40" width="40" src="https://ih1.redbubble.net/image.1057190231.1918/pp,840x830-pad,1000x1000,f8f8f8.u1.jpg"></code>
+<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png"></code>
 
 
 #

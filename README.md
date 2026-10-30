@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
+  <a href="https://mbotirjondev.github.io"><img src="https://img.shields.io/badge/Portfolio-mbotirjondev.github.io-0B7A64?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
   <a href="https://t.me/MBotirjon03"><img src="https://img.shields.io/badge/Telegram-@MBotirjon03-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/botirjon-mahamadaliyev-357593231/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
